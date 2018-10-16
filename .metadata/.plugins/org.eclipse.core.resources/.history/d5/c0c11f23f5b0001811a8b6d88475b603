@@ -1,0 +1,31 @@
+package com.mkyong.helloworld.bean;
+
+public class myIndex {
+	private String name ;
+	private String surename ;
+	private String address ;
+	String country;
+	String javaSkills;
+	
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getSurename() {
+		return surename;
+	}
+	public void setSurename(String surename) {
+		this.surename = surename;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	
+	
+}

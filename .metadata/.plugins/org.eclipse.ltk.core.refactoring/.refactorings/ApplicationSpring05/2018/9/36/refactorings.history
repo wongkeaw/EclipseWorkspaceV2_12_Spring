@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ApplicationSpring05/WebContent/WEB-INF/views/jsp/captcha.html&apos; to &apos;captcha.jsp&apos;" description="Rename resource &apos;captcha.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/views/jsp/captcha.html" name="captcha.jsp" stamp="1536206064077" updateReferences="true"/>
+</session>

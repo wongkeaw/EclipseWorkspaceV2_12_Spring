@@ -1,0 +1,10 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/ApplicationSpring03/WebContent/WEB-INF/spring-core-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ApplicationSpring03/WebContent/WEB-INF/spring-mvc-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ApplicationSpring03/WebContent/WEB-INF/spring-web-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCloginExample/WebContent/WEB-INF/spring-mvc-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCloginExample/WebContent/WEB-INF/spring-web-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCloginExample/src/resource/springBeanConfiguration.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCloginExample/src/resource/springWeb.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/StrutsSpringExample/src/main/resources/com/mkyong/customer/spring/CustomerBean.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring3-mvc-maven-xml-hello-world/src/main/webapp/WEB-INF/spring-web-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

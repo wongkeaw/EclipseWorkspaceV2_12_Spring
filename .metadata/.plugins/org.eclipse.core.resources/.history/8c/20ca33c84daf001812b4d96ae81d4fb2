@@ -1,0 +1,10 @@
+package org.apache.struts.helloworld.action;
+
+public class HelloWorldAction {
+
+    public String execute() {
+        
+        return "SUCCESS";
+    }
+
+}

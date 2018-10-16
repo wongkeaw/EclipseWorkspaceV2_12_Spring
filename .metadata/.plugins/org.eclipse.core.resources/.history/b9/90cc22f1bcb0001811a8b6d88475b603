@@ -1,0 +1,8 @@
+package com.mkyong.helloworld.bean;
+
+public class myIndex {
+	private String name ;
+	private String surename ;
+	private String address ;
+	
+}

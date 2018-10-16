@@ -1,0 +1,26 @@
+package com.mkyong.helloworld.web;
+
+import com.octo.captcha.service.image.ImageCaptchaService;
+import com.octo.captcha.service.image.DefaultManageableImageCaptchaService;
+import com.octo.captcha.engine.image.gimpy.DefaultGimpyEngine;
+import com.octo.captcha.service.captchastore.FastHashMapCaptchaStore;
+
+
+public class CaptchaServiceSingleton {
+ 
+    private static ImageCaptchaService instance = new DefaultManageableImageCaptchaService();
+ 
+    static {
+        instance = new DefaultManageableImageCaptchaService(
+                new FastHashMapCaptchaStore(),
+                new DefaultGimpyEngine() , 
+                180,
+                100000,
+                75000);
+        instance = new DefaultManageableImageCaptchaService(captchaStore, captchaEngine, minGuarantedStorageDelayInSeconds, maxCaptchaStoreSize, captchaStoreLoadBeforeGarbageCollection)
+    }
+
+    public static ImageCaptchaService getInstance(){
+        return instance;
+    }
+}

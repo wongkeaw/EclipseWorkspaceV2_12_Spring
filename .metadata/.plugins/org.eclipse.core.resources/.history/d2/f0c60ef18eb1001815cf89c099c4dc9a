@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>reCAPTCHA demo: Simple page</title>
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  <body>
+    <form action=/ApplicationSpring05/hello/ong method="GET">
+      <img src="/jcaptcha">
+		<input type='text' name='j_captcha_response' value=''>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>

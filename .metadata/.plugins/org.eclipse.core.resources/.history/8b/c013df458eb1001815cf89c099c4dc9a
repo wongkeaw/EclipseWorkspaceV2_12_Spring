@@ -1,0 +1,5 @@
+package com.mkyong.helloworld.web;
+
+public class ImageCaptchaServlet {
+
+}
